@@ -1,4 +1,4 @@
-from sdk.open_weather import OpenWeather
+from sdk.main import OpenWeather
 
 
 api_key = "8560bfec3d03f64cbcc8eae684aa37da"
